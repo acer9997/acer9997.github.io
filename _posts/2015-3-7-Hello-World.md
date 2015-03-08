@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Face
+title: A New Face
 ---
 
 I spent a few minutes to sit down and orient myself with Jekyll. 
