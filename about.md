@@ -15,3 +15,6 @@ My work focuses on investigative journalism for CU-CitizenAccess.org.
 ### Contact me
 
 [actongorton@gmail.com](mailto:actongorton@gmail.com)
+
+### Links
+{% include svg-icons.html %}
