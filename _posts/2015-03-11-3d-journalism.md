@@ -1,0 +1,14 @@
+---
+layout: post
+title: 3D Journalism
+categories: []
+tags: []
+published: True
+
+---
+
+Using the popular game creation engine [Unity 3D](http://unity3d.com/) and some 3D models downloaded from [Open Street Maps](openstreetmap.org) project, to display real-time maps of Champaign, IL.
+
+This is a very early and rough prototype.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/muu5YMJhC_0?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>

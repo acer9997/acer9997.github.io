@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/actongorton/Projects/actongorton/"
+		}
+	],
+	"settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/actongorton/Projects/actongorton/_posts",
+            "drafts+path": "/Users/actongorton'Projects/actongorton/_drafts"
+        }
+    }
+}
