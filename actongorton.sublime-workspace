@@ -7,24 +7,44 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-03-11-3d-journalism.md",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 207.0,
+		"height": 247.0,
 		"selected_items":
 		[
 			[
-				"Jekyl",
-				"Jekyll: New draft"
+				"jek",
+				"Jekyll: New post"
 			],
 			[
 				"Jek",
 				"Jekyll: New post"
 			],
 			[
-				"jek",
+				"",
 				"Jekyll: New post"
+			],
+			[
+				"Jekyl",
+				"Jekyll: New draft"
 			],
 			[
 				"Package ",
@@ -48,13 +68,26 @@
 	},
 	"file_history":
 	[
-		"/Users/actongorton/Projects/actongorton/_posts/2015-03-10-new-documentation-site.md",
+		"/Users/actongorton/Projects/actongorton/_posts/2015-03-11-3d-journalism.md",
 		"/Users/actongorton/Projects/actongorton/_layouts/default.html",
-		"/Users/actongorton/Projects/actongorton/index.html"
+		"/Users/actongorton/Projects/actongorton/index.html",
+		"/Users/actongorton/Projects/actongorton/css/uikit.docs.min.css",
+		"/Users/actongorton/Projects/actongorton/actongorton.sublime-project",
+		"/Users/actongorton/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/actongorton/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/actongorton/Projects/actongorton/CNAME",
+		"/Users/actongorton/Projects/actongorton/actongorton.sublime-workspace",
+		"/Users/actongorton/Library/Application Support/Sublime Text 2/Packages/User/Jekyll.sublime-settings",
+		"/Users/actongorton/Projects/cucitizenaccess/_posts/2015-03-10-new-documentation-site.md",
+		"/Users/actongorton/Projects/cucitizenaccess/_config.yml",
+		"/Users/actongorton/Projects/cucitizenaccess/index.md",
+		"/Users/actongorton/Projects/cucitizenaccess/cucitizenaccess.sublime-project",
+		"/Users/actongorton/Projects/cucitizenaccess/.gitignore",
+		"/Users/actongorton/Projects/cucitizenaccess/_posts/.gitkeep"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -68,6 +101,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#666"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -85,8 +119,62 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-03-11-3d-journalism.md",
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -136,11 +224,15 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/Users/actongorton/Projects/actongorton/actongorton.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
