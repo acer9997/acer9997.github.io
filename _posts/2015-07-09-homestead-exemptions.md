@@ -5,7 +5,7 @@ categories: []
 tags: ['data', 'sql', 'python', 'cartodb']
 published: True
 ---
-<img src="{{ site.url }}images/homestead_exemptions.jpg">
+<img src="{{ site.url }}/images/homestead_exemptions.jpg">
 This project has been almost entirely a database driven story using off the shelf products such as [PostgreSQL](http://www.postgresql.org/) and [SQL](http://www.w3schools.com/sql/) queries, with the presentation produced using [CartoDB](https://cartodb.com/) and some web markup.
 
 Using property records for Champaign County, this story looks at how a loosely written state law allows property owners to claim more than one property as owner occupied.
