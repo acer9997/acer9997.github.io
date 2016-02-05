@@ -10,7 +10,7 @@ I am a student at the University of Illinois in Urbana-Champaign working on a Ph
 
 My research focuses on using Augmented Reality to enrich data-driven stories for journalism. 
 
-My work focuses on investigative journalism for CU-CitizenAccess.org.
+My journalism work appears in [CU-CitizenAccess.org](http://cu-citizenaccess.org), [The Midwest Center for Investigative Reporting](http://investigatemidwest.org), and [Big-Ag Watch](http://bigagwatch.org).
 
 ### Contact me
 
