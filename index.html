@@ -5,6 +5,7 @@ layout: default
   {% for post in site.posts %}
     <article class="uk-article">
       <h1 class="uk-article-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="uk-article-meta" style="margin-bottom: 10px;">Written on {{ post.date | date: "%B %e, %Y" }}</div>
       <div>
         {{ post.content }}
       </div>
