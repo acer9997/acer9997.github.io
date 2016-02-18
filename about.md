@@ -6,11 +6,9 @@ permalink: /about/
 
 Hello,
 
-I am a student at the University of Illinois in Urbana-Champaign working on a PhD in the field of Informatics for data anlytics and information visualization. 
+I am a PhD candidate with the Illinois Informatics Institute at the University of Illinois in Urbana-Champaign. My research area is in data analytics and information visualization, and my focus is on using Augmented Reality to enrich data-driven stories for journalism. I also hold a master's degree in data curation from the Graduate School of Library and Information Science, and a bachelor's degree from the College of Media.
 
-My research focuses on using Augmented Reality to enrich data-driven stories for journalism. 
-
-My journalism work appears in [CU-CitizenAccess.org](http://cu-citizenaccess.org), [The Midwest Center for Investigative Reporting](http://investigatemidwest.org), and [Big-Ag Watch](http://bigagwatch.org).
+I am a data journalist and software application developer. My work commonly appears at [CU-CitizenAccess.org](http://cu-citizenaccess.org), [The Midwest Center for Investigative Reporting](http://investigatemidwest.org), and [Big-Ag Watch](http://bigagwatch.org).
 
 This site is built using the [Jekyll](https://jekyllrb.com/) platform, uses the [UI kit](http://getuikit.com/) web framework, and is hosted on [GitHub](https://github.com/). 
 
