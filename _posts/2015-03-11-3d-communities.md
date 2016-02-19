@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Journalism
+title: 3D Communities
 categories: []
 tags: ['unity', 'interactive', '3d']
 published: True
