@@ -1,2 +1,1 @@
-# Mah' website.
-** Built this based on UI-Kit.
+# Code Repository and Website for A. H. Gorton
