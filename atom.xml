@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Acton H. Gorton]]></title>
+  <link href="actongorton.com/atom.xml" rel="self"/>
+  <link href="actongorton.com/"/>
+  <updated>2017-04-28T11:48:40-05:00</updated>
+  <id>actongorton.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="actongorton.com/14933980176458.html"/>
+    <updated>2017-04-28T11:46:57-05:00</updated>
+    <id>actongorton.com/14933980176458.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Visualizing WTO Exports for Proposed Trans-Pacific Partnership (TPP)]]></title>
+    <link href="actongorton.com/14933974907979.html"/>
+    <updated>2017-04-28T11:38:10-05:00</updated>
+    <id>actongorton.com/14933974907979.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933974907979/wto-exports.jpg" alt="wto-exports"/></p>
+
+<p>This is an interactive graphic showing U.S. agricultural exports and imports with TPP trading partners.</p>
+
+<p>It was built using Leaflet.js and d3.js, and is hosted on GitHub.</p>
+
+<p>It is available <a href="http://data.big-agwatch.org/wto-exports/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Property Record Search Database]]></title>
+    <link href="actongorton.com/14933973834140.html"/>
+    <updated>2017-04-28T11:36:23-05:00</updated>
+    <id>actongorton.com/14933973834140.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933973834140/property_record_search.jpg" alt="property_record_search"/></p>
+
+<p>Using the property records used through the investigative piece on homeowner’s exemptions, The Midwest Center for Investigative Reporting sponsored the build for a searchable database to accompany the story.</p>
+
+<p>This application is built using Python and GeoDjango. Records and map points are served up from a PostgreSQL database and presented using leaflet.js. Search queries are handled by Elastic Search. The application is hosted on Heroku.com.</p>
+
+<p>Click <a href="http://apps.investigatemidwest.org/propertyrecords/">here</a> to use the database.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Uncovering Multiple Homeowner Exemptions Claims]]></title>
+    <link href="actongorton.com/14933971896138.html"/>
+    <updated>2017-04-28T11:33:09-05:00</updated>
+    <id>actongorton.com/14933971896138.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933971896138/homestead_exemptions.jpg" alt="homestead_exemptions"/></p>
+
+<p>This project has been almost entirely a database driven story using off the shelf products such as PostgreSQL and SQL queries, with the presentation produced using CartoDB and some web markup.</p>
+
+<p>Using property records for Champaign County, this story looks at how a loosely written state law allows property owners to claim more than one property as owner occupied.</p>
+
+<p>My contribution to the project began with a simple database query on my own home, in which I noticed that the landlord was claiming a homeowner’s exemption on the house.</p>
+
+<p>The curiosity of this situation led to further inquiries, and the investigative team found that the landlords are all behaving within the law, though the law as it is written is left up to the interpretation of the county supervisor of assessments.</p>
+
+<p>The team further found that the tax assessor was interpreting the law differently then every other county in the state and in a way that generously favored landlords, leading to millions in lost local tax revenue.</p>
+
+<p>The map is available <a href="http://docs.cu-citizenaccess.org/homestead-exemptions/">here</a>, and the story is available <a href="http://cu-citizenaccess.org/2015/07/14/landlords-benefit-from-loose-law-save-millions-in-taxes/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Visually Exploring GMO Petitions]]></title>
+    <link href="actongorton.com/14933970909659.html"/>
+    <updated>2017-04-28T11:31:30-05:00</updated>
+    <id>actongorton.com/14933970909659.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933970909659/gmo-petitions.jpg" alt="gmo-petitions"/><br/>
+This is an interactive graphic showing a breakdown of GMO petitions submitted by agriculture companies to the USDA.</p>
+
+<p>It was built using d3.js and is hosted on GitHub.</p>
+
+<p>Click <a href="http://data.big-agwatch.org/gmo-petitions/">here</a> to interact with the graphic.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ethanol Capacity]]></title>
+    <link href="actongorton.com/14933969583579.html"/>
+    <updated>2017-04-28T11:29:18-05:00</updated>
+    <id>actongorton.com/14933969583579.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933969583579/ethanol-capacity.jpg" alt="ethanol-capacity"/></p>
+
+<p>These are a series of static info-graphics created to show the production capacity at various regions throughout the country involved in the production of ethanol.</p>
+
+<p>Graphics were developed using Adobe Illustrator and the interactive table is built using JQuery DataTables. The page is hosted on GitHub.com.</p>
+
+<p>It is available <a href="http://data.big-agwatch.org/ethanol-capacity/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Restaurant Inspection Score Database]]></title>
+    <link href="actongorton.com/14933967157419.html"/>
+    <updated>2017-04-28T11:25:15-05:00</updated>
+    <id>actongorton.com/14933967157419.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933967157419/food_health_inspections.jpg" alt="food_health_inspections"/></p>
+
+<p>This is an ongoing project for <a href="http://restaurants.cu-citizenaccess.org/">CU-CitizenAccess.org</a> to track health inspections for local area restaurants.</p>
+
+<p>The application is built using Python, GeoDjango, PostGres, and hosted on Heroku.</p>
+
+<p>A Python script runs weekly to crawl the Champaign-Urbana Public Health website for changes in their inspection reports. </p>
+
+<p>This has been enormously popular service for our readers. We continue to roll out incremental improvements over time, and likewise use the data to drive scholarly research and analysis for reporting.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[3D Communities]]></title>
+    <link href="actongorton.com/14933964493497.html"/>
+    <updated>2017-04-28T11:20:49-05:00</updated>
+    <id>actongorton.com/14933964493497.html</id>
+    <content type="html"><![CDATA[
+<p style="text-align: center;">
+<iframe src="https://www.youtube.com/embed/VFPOji14L1I?rel=0&amp;controls=0" frameborder="0" allowfullscreen="" style="width: auto; min-width: 500px; height: 300px;"></iframe></p>
+
+<p>Just a goofy test using the popular game creation engine Unity 3D along with some models downloaded from the OpenStreet Maps project to display real-time maps of Champaign, IL.</p>
+
+<p>It&#39;s fun to use these kinds of experiments to think of the possibilities. </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2014 Fire Maps]]></title>
+    <link href="actongorton.com/14933963633578.html"/>
+    <updated>2017-04-28T11:19:23-05:00</updated>
+    <id>actongorton.com/14933963633578.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14933963633578/champaign-urbana-fires.jpg" alt="champaign-urbana-fires"/><br/>
+<img src="media/14933963633578/fire_incidents_campus.jpg" alt="fire_incidents_campus"/></p>
+
+<p>These are two separate and similar mapping projects tracking fires throughout the Urbana, Champaign, and the University of Illinois campus.</p>
+
+<p>Data was requested through FOIA through the local government.</p>
+
+<p>The map is made using leaflet.js and served from the CU-CitizenAccess.org GitHub repository.</p>
+
+<p>Champaign-Urbana map is available <a href="http://docs.cu-citizenaccess.org/cityfires/">here</a> University of Illinois map is available <a href="http://docs.cu-citizenaccess.org/campusfires2014/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2014 Illinois Campaign Contributions]]></title>
+    <link href="actongorton.com/14916791274929.html"/>
+    <updated>2017-04-08T14:18:47-05:00</updated>
+    <id>actongorton.com/14916791274929.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14916791274929/campaign_contributions.jpg" alt="campaign_contributions"/></p>
+
+<p>This is an interactive map made for WILL Radio in Urbana during the Illinois governor’s race to show where campaign contributions were coming from and where they were going.</p>
+
+<p>Data was taken from the <a href="https://www.elections.il.gov/campaigndisclosure/contributionssearchbycandidates.aspx">Illinois State Board of Elections</a>.</p>
+
+<p>The map is made using leaflet.js and records are formatted from shapefiles and exported into geojson.</p>
+
+<p>You can see the published map <a href="http://docs.cu-citizenaccess.org/campaigncontributions/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
