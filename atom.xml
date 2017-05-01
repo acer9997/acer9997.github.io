@@ -4,13 +4,36 @@
   <title><![CDATA[Acton H. Gorton]]></title>
   <link href="actongorton.com/atom.xml" rel="self"/>
   <link href="actongorton.com/"/>
-  <updated>2017-04-28T11:49:18-05:00</updated>
+  <updated>2017-04-28T16:19:22-05:00</updated>
   <id>actongorton.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Visualizing Tango Tablet Data]]></title>
+    <link href="actongorton.com/14936575079996.html"/>
+    <updated>2017-05-01T11:51:47-05:00</updated>
+    <id>actongorton.com/14936575079996.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14936575079996/experimental%20data%20viz%20tango.png" alt="experimental data viz tango"/></p>
+
+<p>This is a experimental visualization built from data recorded during a guided tour using the Tango AR Tablet.</p>
+
+<p>The blue squares represent the tango tablet, it&#39;s location within the environment, and the direction it&#39;s facing. This is time-series data captured at half-second intervals. </p>
+
+<p>The white walls represent the layout of the environment, minus any furniture. While the tablet is drawn to scale, the walls are taller than scale.</p>
+
+<p>The 3D model is rendered in the Firefox web browser and completely navigable. </p>
+
+<p>The visualization uses Mozilla&#39;s <a href="https://aframe.io/">A-Frame VR platform</a>.</p>
+
+<p>Click <a href="https://acer9997.github.io/tango-data-viz/">here</a> to view the 3D model in your web browser.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Visualizing WTO Exports for Proposed Trans-Pacific Partnership (TPP)]]></title>
