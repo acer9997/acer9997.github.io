@@ -4,7 +4,7 @@
   <title><![CDATA[Acton H. Gorton]]></title>
   <link href="actongorton.com/atom.xml" rel="self"/>
   <link href="actongorton.com/"/>
-  <updated>2017-05-01T12:08:41-05:00</updated>
+  <updated>2017-05-01T16:02:26-05:00</updated>
   <id>actongorton.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -41,15 +41,34 @@
     <updated>2017-05-01T15:58:21-05:00</updated>
     <id>actongorton.com/14936723019643.html</id>
     <content type="html"><![CDATA[
-<p><img src="media/14936723019643/bfe.png" alt="bfe"/></p>
-
-<p>This web application finds the nearest flood elevation marker in the state of Illinois using data released by the Department of Homeland Security.</p>
+<p><img src="media/14936723019643/bfe.png" alt="bfe"/><br/>
+This web application finds the nearest flood elevation marker in the state of Illinois using data released by the Department of Homeland Security.</p>
 
 <p>The geospatial requests are made through a web front end, to a Node.JS server, and a Mongo database. The system is hosted on Heroku. </p>
 
 <p>This is the backend prototype for an Augmented Reality front end built using Unity 3D and working on Android and iOS.</p>
 
 <p>You can view the web portal by clicking <a href="http://bfe.herokuapp.com/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Visualizing the Frequency of Ethanol Spills]]></title>
+    <link href="actongorton.com/14937388072413.html"/>
+    <updated>2017-05-02T10:26:47-05:00</updated>
+    <id>actongorton.com/14937388072413.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/14937388072413/ethanol-accidents.png" alt="ethanol-accidents"/><br/>
+Using government data tracking chemical spills, the investigative reporting team looked into the increasing frequency of ethanol spills taking place throughout the United States in the past 20 years. </p>
+
+<p>This visualization was challenging to optimize and required reducing the data payload as much as possible in order to have it load more quickly. </p>
+
+<p>The graphics are built using a combination of javascript based data-visualization tools, including d3.js, leaflet.js, heatmaps.js, and metricsgraphics.js.</p>
+
+<p>Admittedly the graphic doesn&#39;t load or update as quickly as I&#39;d like, but it was a great exercise in optimizations and opportunity to use new tools to showcase the data in a more enriching and compelling way. </p>
+
+<p>The graphic is available for viewing <a href="http://github.investigatemidwest.org/ethanol-accidents/">here</a>. The full story is available for reading <a href="http://investigatemidwest.org/2016/12/07/ethanol-spills-on-the-rise-in-the-midwest/">here</a>.</p>
 
 ]]></content>
   </entry>
