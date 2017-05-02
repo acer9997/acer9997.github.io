@@ -4,7 +4,7 @@
   <title><![CDATA[Acton H. Gorton]]></title>
   <link href="actongorton.com/atom.xml" rel="self"/>
   <link href="actongorton.com/"/>
-  <updated>2017-05-01T16:02:26-05:00</updated>
+  <updated>2017-05-02T10:37:13-05:00</updated>
   <id>actongorton.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,7 +18,7 @@
     <updated>2017-05-01T11:51:47-05:00</updated>
     <id>actongorton.com/14936575079996.html</id>
     <content type="html"><![CDATA[
-<p><img src="media/14936575079996/experimental%20data%20viz%20tango.png" alt="experimental data viz tango"/></p>
+<p><img src="media/14936575079996/experimental%20data%20viz%20tango.jpg" alt="experimental data viz tango"/></p>
 
 <p>This is a experimental visualization built from data recorded during a guided tour using the Tango AR Tablet.</p>
 
@@ -41,8 +41,9 @@
     <updated>2017-05-01T15:58:21-05:00</updated>
     <id>actongorton.com/14936723019643.html</id>
     <content type="html"><![CDATA[
-<p><img src="media/14936723019643/bfe.png" alt="bfe"/><br/>
-This web application finds the nearest flood elevation marker in the state of Illinois using data released by the Department of Homeland Security.</p>
+<p><img src="media/14936723019643/bfe.jpg" alt="bfe"/></p>
+
+<p>This web application finds the nearest flood elevation marker in the state of Illinois using data released by the Department of Homeland Security.</p>
 
 <p>The geospatial requests are made through a web front end, to a Node.JS server, and a Mongo database. The system is hosted on Heroku. </p>
 
@@ -59,8 +60,9 @@ This web application finds the nearest flood elevation marker in the state of Il
     <updated>2017-05-02T10:26:47-05:00</updated>
     <id>actongorton.com/14937388072413.html</id>
     <content type="html"><![CDATA[
-<p><img src="media/14937388072413/ethanol-accidents.png" alt="ethanol-accidents"/><br/>
-Using government data tracking chemical spills, the investigative reporting team looked into the increasing frequency of ethanol spills taking place throughout the United States in the past 20 years. </p>
+<p><img src="media/14937388072413/ethanol-accidents.jpg" alt="ethanol-accidents"/></p>
+
+<p>Using government data tracking chemical spills, the investigative reporting team looked into the increasing frequency of ethanol spills taking place throughout the United States in the past 20 years. </p>
 
 <p>This visualization was challenging to optimize and required reducing the data payload as much as possible in order to have it load more quickly. </p>
 
