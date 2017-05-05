@@ -4,13 +4,34 @@
   <title><![CDATA[A. H. Gorton]]></title>
   <link href="actongorton.com/atom.xml" rel="self"/>
   <link href="actongorton.com/"/>
-  <updated>2017-05-02T10:42:16-05:00</updated>
+  <updated>2017-05-02T10:46:25-05:00</updated>
   <id>actongorton.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Experimenting with Iron for Rust![rusty-iron](media/14940112334942/rusty-iron.jpg)]]></title>
+    <link href="actongorton.com/14940112334942.html"/>
+    <updated>2017-05-05T14:07:13-05:00</updated>
+    <id>actongorton.com/14940112334942.html</id>
+    <content type="html"><![CDATA[
+<p>Fascinating work going on at Mozilla with their reimaginings of the future of the web. They&#39;re integrating the Rust Language with Servo and intend to make this a part of their future browser stack.</p>
+
+<p>I wanted to get a little hands on experience with their technology stack and looked at what it would take to get an MVC framework up and running on Heroku. </p>
+
+<p>Pretty easy actually.</p>
+
+<p>&quot;Hello World!&quot;</p>
+
+<p>The documentation is totally unclear about how to further develop this out. How do Routes work? Is there an object-model database connector? How do I build views? </p>
+
+<p>It&#39;s like the early days of Node.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Visualizing Tango Tablet Data with Mozilla A-Frame VR Platform]]></title>
