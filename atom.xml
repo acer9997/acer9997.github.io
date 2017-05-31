@@ -4,32 +4,13 @@
   <title><![CDATA[A. H. Gorton]]></title>
   <link href="actongorton.com/atom.xml" rel="self"/>
   <link href="actongorton.com/"/>
-  <updated>2017-05-05T15:13:00-05:00</updated>
+  <updated>2017-05-05T15:14:15-05:00</updated>
   <id>actongorton.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
-  
-  <entry>
-    <title type="html"><![CDATA[The Rusty Iron: Experimenting with Iron for Rust]]></title>
-    <link href="actongorton.com/14940112334942.html"/>
-    <updated>2017-05-05T14:07:13-05:00</updated>
-    <id>actongorton.com/14940112334942.html</id>
-    <content type="html"><![CDATA[
-<p><img src="media/14940112334942/rusty-iron.jpg" alt="rusty-iron"/></p>
-
-<p>Getting some hands on experience with the <a href="https://www.rust-lang.org/en-US/">Rust Language</a> and testing the <a href="http://ironframework.io/">Iron framework</a>. Got it up and <a href="https://rusty-iron.herokuapp.com/">running on Heroku</a> pretty easy. </p>
-
-<p>&quot;Hello World!&quot;</p>
-
-<p>Apparently this thing can handle about 70,000 requests per second... that&#39;s astonishing if true. </p>
-
-<p>Need a use case for this. Was thinking of rebuilding my experimental <a href="http://bfe.herokuapp.com/">Base Flood Elevation</a> AR tool and integrating with the <a href="https://www.argonjs.io/">Argon browser</a>.</p>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Visualizing Tango Tablet Data with Mozilla A-Frame VR Platform]]></title>
